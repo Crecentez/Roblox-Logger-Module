@@ -108,9 +108,7 @@ Logger._buffer = {} :: { BufferedEntry }
 -- Fires for every dispatched log, including those captured into groups.
 Logger.OnLog = newSignal()
 
--- ============================================================
 -- INTERNAL HELPERS
--- ============================================================
 
 local function getPrefix(logType: string): string
 	return "[" .. logType .. "]\t::\t"
