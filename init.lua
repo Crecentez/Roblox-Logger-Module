@@ -1,7 +1,7 @@
 -- Logger.lua
 -- © 2025 Crecentez / Lunoxi Studios
 -- Licensed under the MIT License. See LICENSE file.
--- V1.1.0
+-- V1.1.2
 
 --!strict
 
